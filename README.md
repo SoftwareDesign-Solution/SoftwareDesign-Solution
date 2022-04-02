@@ -12,7 +12,7 @@
 <a href="https://expressjs.com/" target="_blank"> <img src="/badges/backend/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://nodejs.org/" target="_blank"> <img src="/badges/backend/nodejs.svg" alt="node.js" /> </a> <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="/badges/backend/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> </a>
 
 <h3 align="left">Database</h3>
-<a href="https://www.mysql.com/" target="_blank"> <img src="/badges/database/mysql-original-wordmark.svg.svg" alt="MySQL" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> <img src="/badges/database/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="/badges/database/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> <img src="/badges/database/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/> </a>
 
 <h3 align="left">Framework</h3>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="/badges/framework/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="/badges/framework/laravel.svg" alt="Laravel" /> </a>
